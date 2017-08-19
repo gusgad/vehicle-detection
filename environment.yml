@@ -13,3 +13,4 @@ dependencies:
     - tensorflow
     - keras
     - moviepy
+    - pillow
